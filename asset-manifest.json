@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/linkr/static/css/main.a4000755.chunk.css",
-    "main.js": "/linkr/static/js/main.43f7d201.chunk.js",
-    "main.js.map": "/linkr/static/js/main.43f7d201.chunk.js.map",
-    "runtime-main.js": "/linkr/static/js/runtime-main.5e272314.js",
-    "runtime-main.js.map": "/linkr/static/js/runtime-main.5e272314.js.map",
-    "static/js/2.03ba4ddf.chunk.js": "/linkr/static/js/2.03ba4ddf.chunk.js",
-    "static/js/2.03ba4ddf.chunk.js.map": "/linkr/static/js/2.03ba4ddf.chunk.js.map",
-    "static/js/3.7c18b1c1.chunk.js": "/linkr/static/js/3.7c18b1c1.chunk.js",
-    "static/js/3.7c18b1c1.chunk.js.map": "/linkr/static/js/3.7c18b1c1.chunk.js.map",
-    "index.html": "/linkr/index.html",
-    "static/css/main.a4000755.chunk.css.map": "/linkr/static/css/main.a4000755.chunk.css.map",
-    "static/js/2.03ba4ddf.chunk.js.LICENSE.txt": "/linkr/static/js/2.03ba4ddf.chunk.js.LICENSE.txt",
-    "static/media/Page1.css": "/linkr/static/media/linkr.2ddcccd7.jpeg",
-    "static/media/linktree-marketing-website-profile-images.5132b57e.gif": "/linkr/static/media/linktree-marketing-website-profile-images.5132b57e.gif",
-    "static/media/mobileoutline.78601978.png": "/linkr/static/media/mobileoutline.78601978.png"
+    "main.css": "/rom1976/linkr.git/static/css/main.895c1f51.chunk.css",
+    "main.js": "/rom1976/linkr.git/static/js/main.43f7d201.chunk.js",
+    "main.js.map": "/rom1976/linkr.git/static/js/main.43f7d201.chunk.js.map",
+    "runtime-main.js": "/rom1976/linkr.git/static/js/runtime-main.fc0510af.js",
+    "runtime-main.js.map": "/rom1976/linkr.git/static/js/runtime-main.fc0510af.js.map",
+    "static/js/2.03ba4ddf.chunk.js": "/rom1976/linkr.git/static/js/2.03ba4ddf.chunk.js",
+    "static/js/2.03ba4ddf.chunk.js.map": "/rom1976/linkr.git/static/js/2.03ba4ddf.chunk.js.map",
+    "static/js/3.7c18b1c1.chunk.js": "/rom1976/linkr.git/static/js/3.7c18b1c1.chunk.js",
+    "static/js/3.7c18b1c1.chunk.js.map": "/rom1976/linkr.git/static/js/3.7c18b1c1.chunk.js.map",
+    "index.html": "/rom1976/linkr.git/index.html",
+    "static/css/main.895c1f51.chunk.css.map": "/rom1976/linkr.git/static/css/main.895c1f51.chunk.css.map",
+    "static/js/2.03ba4ddf.chunk.js.LICENSE.txt": "/rom1976/linkr.git/static/js/2.03ba4ddf.chunk.js.LICENSE.txt",
+    "static/media/Page1.css": "/rom1976/linkr.git/static/media/linkr.2ddcccd7.jpeg",
+    "static/media/linktree-marketing-website-profile-images.5132b57e.gif": "/rom1976/linkr.git/static/media/linktree-marketing-website-profile-images.5132b57e.gif",
+    "static/media/mobileoutline.78601978.png": "/rom1976/linkr.git/static/media/mobileoutline.78601978.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e272314.js",
+    "static/js/runtime-main.fc0510af.js",
     "static/js/2.03ba4ddf.chunk.js",
-    "static/css/main.a4000755.chunk.css",
+    "static/css/main.895c1f51.chunk.css",
     "static/js/main.43f7d201.chunk.js"
   ]
 }
